@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.markdown import hlink
 from aiogram.dispatcher.filters import Text
 from config import token
-from main import check_news_update, get_news_keyword
+from main import check_news_update, get_news_keyword, get_news_keyword2
 from bd import reg_user, get_users, del_user
 
 
@@ -73,10 +73,11 @@ async def get_fresh_news(message: types.Message):
 
 @dp.message_handler()
 async def get_all_news(message: types.Message):
-    news = get_news_keyword(message.text)
+    await message.answer("Введите ключевое слово")
+    news = get_news_keyword2(message.text)
     for k, v in news.items():
-        ans = f"<b>{v}</b>\n" \
-              f"{k}"
+        ans = f"<b>{k}</b>\n" \
+              f"{v}"
         await message.answer(ans)
 
 
