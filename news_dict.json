@@ -1,242 +1,237 @@
 {
-    "zhivodera15zhivotnyh": {
-        "article_date_timestamp": 1668616680.0,
-        "article_title": "Минчанин покупал котов, а затем убивал их «из-за плохого настроения». На «счету» живодера 15 животных",
-        "article_url": "http://ont.by/news/minchanin-pokupal-kotov-a-zatem-ubival-ih-iz-za-plohogo-nastroeniya-na-schetu-zhivodera-15-zhivotnyh"
+    "rasstrelarossijskihvoennoplennyh": {
+        "article_date_timestamp": 1669140900.0,
+        "article_title": "В Сети появились кадры еще одного расстрела российских военнопленных",
+        "article_url": "http://ont.by/news/v-seti-poyavilis-kadry-eshe-odnogo-rasstrela-rossijskih-voennoplennyh"
     },
-    "vedomaeehozyaev": {
-        "article_date_timestamp": 1668611160.0,
-        "article_title": "Сотрудница столичного ЖЭСа продала чужую квартиру без ведома ее хозяев",
-        "article_url": "http://ont.by/news/sotrudnica-stolichnogo-zhesa-prodala-chuzhuyu-kvartiru-bez-vedoma-ee-hozyaev"
+    "dostiglo250chelovek": {
+        "article_date_timestamp": 1669130100.0,
+        "article_title": "Число жертв землетрясения в Индонезии достигло 250 человек",
+        "article_url": "http://ont.by/news/chislo-zhertv-zemletryaseniya-v-indonezii-dostiglo-250-chelovek"
     },
-    "granicesbitbespilotnik": {
-        "article_date_timestamp": 1668607507.0,
-        "article_title": "На белорусско-украинской границе сбит беспилотник",
-        "article_url": "http://ont.by/news/na-belorussko-ukrainskoj-granice-sbit-bespilotnik"
+    "bylisluchainapadeniya": {
+        "article_date_timestamp": 1669128420.0,
+        "article_title": "Стая собак терроризирует жителей нескольких деревень под Гродно: местная жительница выпускает свору каждый вечер, уже были случаи нападения",
+        "article_url": "http://ont.by/news/staya-sobak-terroriziruet-zhitelej-neskolkih-dereven-pod-grodno-mestnaya-zhitelnica-vypuskaet-svoru-kazhdyj-vecher-uzhe-byli-sluchai-napadeniya"
     },
-    "gostejvpinske": {
-        "article_date_timestamp": 1668605820.0,
-        "article_title": "Мужчина и его 11-летний сын избили и расстреляли из пневматики своих гостей в Пинске",
-        "article_url": "http://ont.by/news/muzhchina-i-ego-11-letnij-syn-izbili-i-rasstrelyali-iz-pnevmatiki-svoih-gostej-v-pinske"
+    "nashlibezsoznaniya": {
+        "article_date_timestamp": 1669126021.0,
+        "article_title": "В столичном ЖК «Олимпик 2» травмирован прораб: мужчину нашли без сознания",
+        "article_url": "http://ont.by/news/v-stolichnom-zhk-olimpik-2-travmirovan-prorab-muzhchinu-nashli-bez-soznaniya"
     },
-    "hersonskojoblastipropala": {
-        "article_date_timestamp": 1668601866.0,
-        "article_title": "Замглавы администрации Херсонской области пропала",
-        "article_url": "http://ont.by/news/zamglavy-administracii-hersonskoj-oblasti-propala"
+    "otprizyvnojkampanii": {
+        "article_date_timestamp": 1669122000.0,
+        "article_title": "Жителя Лунинецкого района будут судить за уклонение от призывной кампании",
+        "article_url": "http://ont.by/news/zhitelya-lunineckogo-rajona-budut-sudit-za-uklonenie-ot-prizyvnoj-kampanii"
     },
-    "s300ukrainy": {
-        "article_date_timestamp": 1668594780.0,
-        "article_title": "Минобороны России заявило, что обнаруженные в Польше обломки ракеты – элементы С-300 Украины",
-        "article_url": "http://ont.by/news/minoborony-rossii-zayavilo-chto-obnaruzhennye-v-polshe-oblomki-rakety-elementy-s-300-ukrainy"
+    "naostroveyava": {
+        "article_date_timestamp": 1669119395.0,
+        "article_title": "Александр Лукашенко направил соболезнование Президенту Индонезии в связи с трагическим землетрясением на острове Ява",
+        "article_url": "http://ont.by/news/aleksandr-lukashenko-napravil-soboleznovanie-prezidentu-indonezii-v-svyazi-s-tragicheskim-zemletryaseniem-na-ostrove-yava"
     },
-    "vodyitepla": {
-        "article_date_timestamp": 1668594433.0,
-        "article_title": "Зеленский: сотни городов Украины остались без света, воды и тепла",
-        "article_url": "http://ont.by/news/zelenskij-sotni-gorodov-ukrainy-ostalis-bez-sveta-vody-i-tepla"
+    "ognevyesredstvavsu": {
+        "article_date_timestamp": 1669117570.0,
+        "article_title": "Россия подавила обстреливавшие ЗАЭС огневые средства ВСУ",
+        "article_url": "http://ont.by/news/rossiya-podavila-obstrelivavshie-zaes-ognevye-sredstva-vsu"
     },
-    "osushestvilpodryvneftebazy": {
-        "article_date_timestamp": 1668590547.0,
-        "article_title": "В Орловской области беспилотник осуществил подрыв нефтебазы",
-        "article_url": "http://ont.by/news/v-orlovskoj-oblasti-bespilotnik-osushestvil-podryv-neftebazy"
+    "tysbelorusskihrublej": {
+        "article_date_timestamp": 1669115460.0,
+        "article_title": "Пенсионерка из Могилева оформила кредиты и перевела мошенникам более 9 тыс. белорусских рублей",
+        "article_url": "http://ont.by/news/pensionerka-iz-mogileva-oformila-kredity-i-perevela-moshennikam-bolee-9-tys-belorusskih-rublej"
     },
-    "vzryvevodesse": {
-        "article_date_timestamp": 1668590207.0,
-        "article_title": "Украинские СМИ сообщили о взрыве в Одессе",
-        "article_url": "http://ont.by/news/ukrainskie-smi-soobshili-o-vzryve-v-odesse"
+    "vzaporozhskojoblasti": {
+        "article_date_timestamp": 1669112698.0,
+        "article_title": "«Спонсора» украинских войск задержали в Запорожской области",
+        "article_url": "http://ont.by/news/sponsora-ukrainskih-vojsk-zaderzhali-v-zaporozhskoj-oblasti"
     },
-    "vobuektivnomrassledovanii": {
-        "article_date_timestamp": 1668587280.0,
-        "article_title": "Падение ракет в Польше: заинтересована ли страна в объективном расследовании?",
-        "article_url": "http://ont.by/news/padenie-rakety-v-polshe-zainteresovana-li-strana-v-obuektivnom-rassledovanii"
+    "postradali7chelovek": {
+        "article_date_timestamp": 1669112208.0,
+        "article_title": "В Минске столкнулись два троллейбуса: пострадали 7 человек",
+        "article_url": "http://ont.by/news/v-minske-stolknulis-dva-trollejbusa-postradali-7-chelovek"
     },
-    "vbelgorodskojoblasti": {
-        "article_date_timestamp": 1668586380.0,
-        "article_title": "Растет число жертв после обстрела города Шебекино в Белгородской области",
-        "article_url": "http://ont.by/news/rastet-chislo-zhertv-posle-obstrela-goroda-shebekino-v-belgorodskoj-oblasti"
+    "belorusskopolskojgranice": {
+        "article_date_timestamp": 1669112100.0,
+        "article_title": "Тело погибшего беженца обнаружено на белорусско-польской границе",
+        "article_url": "http://ont.by/news/telo-pogibshego-bezhenca-obnaruzheno-na-belorussko-polskoj-granice"
     },
-    "samoletpodartemovskom": {
-        "article_date_timestamp": 1668582447.0,
-        "article_title": "Бойцы «Вагнера» сбили украинский самолет под Артемовском",
-        "article_url": "http://ont.by/news/bojcy-vagnera-sbili-ukrainskij-samolet-pod-artemovskom"
+    "rajonepogibmuzhchina": {
+        "article_date_timestamp": 1669110120.0,
+        "article_title": "При пожаре в жилом доме в Слонимском районе погиб мужчина",
+        "article_url": "http://ont.by/news/pri-pozhare-v-zhilom-dome-v-slonimskom-rajone-pogib-muzhchina"
     },
-    "chpvpolshe": {
-        "article_date_timestamp": 1668581077.0,
-        "article_title": "Эрдоган: в НАТО считают, что Россия не имеет отношения к ЧП в Польше",
-        "article_url": "http://ont.by/news/erdogan-v-nato-schitayut-chto-rossiya-ne-imeet-otnosheniya-k-chp-v-polshe"
+    "gazestpogibshie": {
+        "article_date_timestamp": 1669109100.0,
+        "article_title": "В студенческом общежитии в Ираке взорвался бытовой газ: есть погибшие",
+        "article_url": "http://ont.by/news/v-studencheskom-obshezhitii-v-irake-vzorvalsya-bytovoj-gaz-est-pogibshie"
     },
-    "vypushenaukrainskimivojskami": {
-        "article_date_timestamp": 1668578458.0,
-        "article_title": "AP: упавшая в Польше ракета была выпущена украинскими войсками",
-        "article_url": "http://ont.by/news/ap-upavshaya-v-polshe-raketa-byla-vypushena-ukrainskimi-vojskami"
+    "pogibli38chelovek": {
+        "article_date_timestamp": 1669108200.0,
+        "article_title": "Во время пожара на одном из предприятий Китая погибли 38 человек",
+        "article_url": "http://ont.by/news/vo-vremya-pozhara-na-odnom-iz-predpriyatij-kitaya-pogibli-38-chelovek"
     },
-    "vzryvzagorelsyaavtomobil": {
-        "article_date_timestamp": 1668577879.0,
-        "article_title": "В Стамбуле прогремел взрыв, загорелся автомобиль",
-        "article_url": "http://ont.by/news/v-stambule-progremel-vzryv-zagorelsya-avtomobil"
+    "vsunatovskogokalibra": {
+        "article_date_timestamp": 1669051620.0,
+        "article_title": "Рогов: Энергодар обстреливают из артиллерии ВСУ натовского калибра",
+        "article_url": "http://ont.by/news/rogov-energodar-obstrelivayut-iz-artillerii-vsu-natovskogo-kalibra"
     },
-    "raketvpolshe": {
-        "article_date_timestamp": 1668538807.0,
-        "article_title": "СМИ: погибли два человека при падении ракет в Польше",
-        "article_url": "http://ont.by/news/smi-pogibli-dva-cheloveka-pri-padenii-raket-v-polshe"
+    "vhersonskojoblasti": {
+        "article_date_timestamp": 1669045920.0,
+        "article_title": "Российские бойцы уничтожили украинских диверсантов в Херсонской области",
+        "article_url": "http://ont.by/news/rossijskie-bojcy-unichtozhili-ukrainskih-diversantov-v-hersonskoj-oblasti"
     },
-    "dvamirnyhzhitelya": {
-        "article_date_timestamp": 1668533023.0,
-        "article_title": "В результате обстрела города Шебекино в Белгородской области погибли два мирных жителя",
-        "article_url": "http://ont.by/news/v-rezultate-obstrela-goroda-shebekino-v-belgorodskoj-oblasti-pogibli-dva-mirnyh-zhitelya"
+    "otkazyvayutvpomoshi": {
+        "article_date_timestamp": 1669038452.0,
+        "article_title": "ГПК: в польской погранполосе много беженцев, которым отказывают в помощи",
+        "article_url": "http://ont.by/news/gpk-v-polskoj-pogranpolose-mnogo-bezhencev-kotorym-otkazyvayut-v-pomoshi"
     },
-    "zapashnogoraniltigr": {
-        "article_date_timestamp": 1668531540.0,
-        "article_title": "Эдгарда Запашного ранил тигр",
-        "article_url": "http://ont.by/news/edgarda-zapashnogo-ranil-tigr"
+    "cisternystoplivom": {
+        "article_date_timestamp": 1669038120.0,
+        "article_title": "В Макеевке из-за обстрела загорелись цистерны с топливом",
+        "article_url": "http://ont.by/news/v-makeevke-iz-za-obstrela-ukrainy-zagorelis-cisterny-s-toplivom"
     },
-    "smertizhizn": {
-        "article_date_timestamp": 1668519840.0,
-        "article_title": "В Вене экоактивисты облили нефтью картину Климта «Смерть и жизнь»",
-        "article_url": "http://ont.by/news/v-vene-ekoaktivisty-oblili-neftyu-kartinu-klimta-smert-i-zhizn"
+    "zhertvrazrushitelnogozemletryaseniya": {
+        "article_date_timestamp": 1669026840.0,
+        "article_title": "Число жертв землетрясения в Индонезии достигло 160, большинство – дети",
+        "article_url": "http://ont.by/news/v-indonezii-rastet-chislo-zhertv-razrushitelnogo-zemletryaseniya"
     },
-    "goryuchesmazochnyhmaterialov": {
-        "article_date_timestamp": 1668518785.0,
-        "article_title": "ФСБ в Крыму задержали жителя, планировавшего теракт на складе горюче-смазочных материалов",
-        "article_url": "http://ont.by/news/fsb-v-krymu-zaderzhali-zhitelya-planirovavshego-terakt-na-sklade-goryuche-smazochnyh-materialov"
+    "obrushilsyasilnyjsnegopad": {
+        "article_date_timestamp": 1669022520.0,
+        "article_title": "На Нью-Йорк обрушился сильный снегопад",
+        "article_url": "http://ont.by/news/na-nyu-jork-obrushilsya-silnyj-snegopad"
     },
-    "skrytpadenieproizvoditelnosti": {
-        "article_date_timestamp": 1668508800.0,
-        "article_title": "В одном из хозяйств Гомельской области разбавляли молоко водой, чтобы скрыть падение производительности",
-        "article_url": "http://ont.by/news/v-odnom-iz-hozyajstv-gomelskoj-oblasti-razbavlyali-moloko-vodoj-chtoby-skryt-padenie-proizvoditelnosti"
+    "otnedovolnogoizbiratelya": {
+        "article_date_timestamp": 1669021920.0,
+        "article_title": "Макрон получил пощечину от недовольного избирателя",
+        "article_url": "http://ont.by/news/makron-poluchil-poshechinu-ot-nedovolnogo-izbiratelya"
     },
-    "irkutskomestpostradavshie": {
-        "article_date_timestamp": 1668505800.0,
-        "article_title": "Вертолет Ми-8 совершил аварийную посадку под Иркутском: есть пострадавшие",
-        "article_url": "http://ont.by/news/vertolet-mi-8-sovershil-avarijnuyu-posadku-pod-irkutskom-est-postradavshie"
+    "poirakskomukurdistanu": {
+        "article_date_timestamp": 1669019520.0,
+        "article_title": "Иран нанес ракетный удар по Иракскому Курдистану",
+        "article_url": "http://ont.by/news/iran-nanes-raketnyj-udar-po-irakskomu-kurdistanu"
     },
-    "napeshehodnomperehode": {
-        "article_date_timestamp": 1668503220.0,
-        "article_title": "В Минске насмерть сбили 60-летнюю женщину на пешеходном переходе",
-        "article_url": "http://ont.by/news/v-minske-nasmert-sbili-60-letnyuyu-zhenshinu-na-peshehodnom-perehode"
+    "ponesovershennoletnimdevushkam": {
+        "article_date_timestamp": 1669011420.0,
+        "article_title": "В поселке Красный Берег 18-летний парень стрелял из пневматики по несовершеннолетним девушкам",
+        "article_url": "http://ont.by/news/v-poselke-krasnyj-bereg-18-letnij-paren-strelyal-iz-pnevmatiki-po-nesovershennoletnim-devushkam"
     },
-    "ichastnikolaevskoj": {
-        "article_date_timestamp": 1668489900.0,
-        "article_title": "На Украине уничтожен объект, снабжавший электроэнергией правобережье Херсонской области и часть Николаевской",
-        "article_url": "http://ont.by/news/na-ukraine-unichtozhen-obuekt-snabzhavshij-elektroenergiej-pravoberezhe-hersonskoj-oblasti-i-chast-nikolaevskoj"
+    "vozroslodosemi": {
+        "article_date_timestamp": 1669008240.0,
+        "article_title": "Количество жертв пожара на Комсомольской площади в Москве возросло до семи",
+        "article_url": "http://ont.by/news/kolichestvo-zhertv-pozhara-na-komsomolskoj-ploshadi-v-moskve-vozroslo-do-semi"
     },
-    "nasmertdvuhpeshehodov": {
-        "article_date_timestamp": 1668439080.0,
-        "article_title": "В Китае Tesla потеряла управление и сбила насмерть двух пешеходов",
-        "article_url": "http://ont.by/news/v-kitae-tesla-poteryala-upravlenie-i-sbila-nasmert-dvuh-peshehodov"
+    "velosipedistkuvpolshe": {
+        "article_date_timestamp": 1668970920.0,
+        "article_title": "34-летний белорус на грузовике сбил насмерть 67-летнюю велосипедистку в Польше",
+        "article_url": "http://ont.by/news/34-letnij-belorus-na-gruzovike-sbil-nasmert-67-letnyuyu-velosipedistku-v-polshe"
     },
-    "upalinarebenka": {
-        "article_date_timestamp": 1668438314.0,
-        "article_title": "В Минске футбольные ворота упали на ребенка",
-        "article_url": "http://ont.by/news/v-minske-futbolnye-vorota-upali-na-rebenka"
+    "komsomolskojploshadimoskvy": {
+        "article_date_timestamp": 1668970663.0,
+        "article_title": "Два человека погибли при пожаре на Комсомольской площади Москвы",
+        "article_url": "http://ont.by/news/dva-cheloveka-pogibli-pri-pozhare-na-komsomolskoj-ploshadi-moskvy"
     },
-    "strelbaestpogibshie": {
-        "article_date_timestamp": 1668433440.0,
-        "article_title": "В университете Вирджинии произошла стрельба: есть погибшие",
-        "article_url": "http://ont.by/news/v-universitete-virdzhinii-proizoshla-strelba-est-pogibshie"
+    "soobshiliukrainskiesmi": {
+        "article_date_timestamp": 1668969240.0,
+        "article_title": "Французский наемник Бессон погиб в зоне СВО России, сообщили украинские СМИ",
+        "article_url": "http://ont.by/news/francuzskij-naemnik-besson-pogib-v-zone-svo-rossii-soobshili-ukrainskie-smi"
     },
-    "zaminirovaliostankinskuyutelebashnyu": {
-        "article_date_timestamp": 1668424140.0,
-        "article_title": "В Москве «заминировали» Останкинскую телебашню",
-        "article_url": "http://ont.by/news/v-moskve-zaminirovali-ostankinskuyu-telebashnyu"
+    "pogiblipyatchelovek": {
+        "article_date_timestamp": 1668955401.0,
+        "article_title": "В США в результате стрельбы в ночном клубе погибли пять человек",
+        "article_url": "http://ont.by/news/v-ssha-v-rezultate-strelby-v-nochnom-klube-pogibli-pyat-chelovek"
     },
-    "fotobezgalstuka": {
-        "article_date_timestamp": 1668419340.0,
-        "article_title": "Лавров опроверг информацию о своей госпитализации неформальным фото без галстука",
-        "article_url": "http://ont.by/news/lavrov-oproverg-informaciyu-o-svoej-gospitalizaciej-neformalnym-foto-bez-galstuka"
+    "zdaniiproizoshelpozhar": {
+        "article_date_timestamp": 1668951869.0,
+        "article_title": "МЧС: в Москве у Комсомольской площади в складском здании произошел пожар",
+        "article_url": "http://ont.by/news/mchs-v-moskve-u-komsomolskoj-ploshadi-v-skladskom-zdanii-proizoshel-pozhar"
     },
-    "popalivdtp": {
-        "article_date_timestamp": 1668419100.0,
-        "article_title": "Что делать, если вы попали в ДТП?",
-        "article_url": "http://ont.by/news/chto-delat-esli-vy-popali-v-dtp"
+    "vulkananakamchatke": {
+        "article_date_timestamp": 1668951300.0,
+        "article_title": "Высокую активность проявляют сразу два вулкана на Камчатке",
+        "article_url": "http://ont.by/news/vysokuyu-aktivnost-proyavlyayut-srazu-dva-vulkana-na-kamchatke"
     },
-    "zasilnogotumana": {
-        "article_date_timestamp": 1668403860.0,
-        "article_title": "Оранжевый уровень опасности объявлен на утро понедельника из-за сильного тумана",
-        "article_url": "http://ont.by/news/oranzhevyj-uroven-opasnosti-obuyavlen-na-utro-ponedelnika-iz-za-silnogo-tumana"
+    "nakupyanskomnapravlenii": {
+        "article_date_timestamp": 1668861600.0,
+        "article_title": "Российские военные предотвратили атаку украинских войск на Купянском направлении",
+        "article_url": "http://ont.by/news/rossijskie-voennye-predotvratili-ataku-ukrainskih-vojsk-na-kupyanskom-napravlenii"
     },
-    "vcentrestambula": {
-        "article_date_timestamp": 1668402840.0,
-        "article_title": "Задержан подозреваемый во взрыве в центре Стамбула",
-        "article_url": "http://ont.by/news/zaderzhan-podozrevaemyj-vo-vzryve-v-centre-stambula"
+    "najdenotelobezhenca": {
+        "article_date_timestamp": 1668942660.0,
+        "article_title": "Госпогранкомитет: на границе Беларуси и Польши найдено тело беженца",
+        "article_url": "http://ont.by/news/gospogrankomitet-na-granice-belarusi-i-polshi-najdeno-telo-bezhenca"
     },
-    "sluchajsrebenkom": {
-        "article_date_timestamp": 1668363434.0,
-        "article_title": "В Гомеле в рамках работы платных групп по плаванию произошел несчастный случай с ребенком",
-        "article_url": "http://ont.by/news/v-gomele-v-ramkah-raboty-platnyh-grupp-po-plavaniyu-proizoshel-neschastnyj-sluchaj-s-rebenkom"
+    "irakeisirii": {
+        "article_date_timestamp": 1668942360.0,
+        "article_title": "СМИ: Эрдоган приказал провести воздушную операцию в Ираке и Сирии",
+        "article_url": "http://ont.by/news/smi-erdogan-prikazal-provesti-vozdushnuyu-operaciyu-v-irake-i-sirii"
     },
-    "vozroslodoshesti": {
-        "article_date_timestamp": 1668357480.0,
-        "article_title": "Эрдоган рассказал, что количество погибших при взрыве в центре Стамбула возросло до шести",
-        "article_url": "http://ont.by/news/erdogan-rasskazal-chto-kolichestvo-pogibshih-pri-vzryve-v-centre-stambula-vozroslo-do-shesti"
+    "etazhevmogileve": {
+        "article_date_timestamp": 1668938340.0,
+        "article_title": "Малолетняя девочка выпала из окна на шестом этаже в Могилеве",
+        "article_url": "http://ont.by/news/maloletnyaya-devochka-vypala-iz-okna-na-shestom-etazhe-v-mogileve"
     },
-    "metroproizoshladavka": {
-        "article_date_timestamp": 1668356900.0,
-        "article_title": "В Киеве на одной из станций метро произошла давка",
-        "article_url": "http://ont.by/news/v-kieve-na-odnoj-iz-stancij-metro-proizoshla-davka"
+    "pogiblichetyrecheloveka": {
+        "article_date_timestamp": 1668937440.0,
+        "article_title": "В США потерпел крушение самолет, погибли четыре человека",
+        "article_url": "http://ont.by/news/v-ssha-poterpel-krushenie-samolet-pogibli-chetyre-cheloveka"
     },
-    "vzryvestpogibshie": {
-        "article_date_timestamp": 1668349260.0,
-        "article_title": "В центре Стамбула прогремел взрыв: есть погибшие",
-        "article_url": "http://ont.by/news/v-centre-stambula-progremel-vzryv-est-pogibshie"
+    "obuyavlenavozdushnayatrevoga": {
+        "article_date_timestamp": 1668932700.0,
+        "article_title": "По всей территории Украины снова объявлена воздушная тревога",
+        "article_url": "http://ont.by/news/po-vsej-territorii-ukrainy-snova-obuyavlena-vozdushnaya-trevoga"
     },
-    "vsejterritoriiukrainy": {
-        "article_date_timestamp": 1668337860.0,
-        "article_title": "Воздушная тревога вновь была объявлена по всей территории Украины",
-        "article_url": "http://ont.by/news/vozdushnaya-trevoga-vnov-byla-obuyavlena-po-vsej-territorii-ukrainy"
+    "navostokeyaponii": {
+        "article_date_timestamp": 1668927060.0,
+        "article_title": "Два человека погибли при крушении самолета на востоке Японии",
+        "article_url": "http://ont.by/news/dva-cheloveka-pogibli-pri-krushenii-samoleta-na-vostoke-yaponii"
     },
-    "vlunineckomrajone": {
-        "article_date_timestamp": 1668332880.0,
-        "article_title": "4,5 тонны тритикале похитили со склада в Лунинецком районе",
-        "article_url": "http://ont.by/news/45-tonny-tritikale-pohitili-so-sklada-v-lunineckom-rajone"
+    "akcijzheltyhzhiletov": {
+        "article_date_timestamp": 1668922080.0,
+        "article_title": "В Париже люди вышли на улицы в честь четвертой годовщины начала акций «желтых жилетов»",
+        "article_url": "http://ont.by/news/v-parizhe-lyudi-vyshli-na-ulicy-v-chest-chetvertoj-godovshiny-nachala-akcij-zheltyh-zhiletov"
     },
-    "uchinilalobovoestolknovenie": {
-        "article_date_timestamp": 1668331560.0,
-        "article_title": "На МКАД бесправница выехала на встречную полосу и учинила лобовое столкновение",
-        "article_url": "http://ont.by/news/na-mkad-bespravnica-vyehala-na-vstrechnuyu-polosu-i-uchinila-lobovoe-stolknovenie"
+    "vpodderzhkudonbassa": {
+        "article_date_timestamp": 1668882658.0,
+        "article_title": "Украинские активисты напали на французских блогеров во время акции в поддержку Донбасса",
+        "article_url": "http://ont.by/news/ukrainskie-aktivisty-napali-na-francuzskih-blogerov-vo-vremya-akcii-v-podderzhku-donbassa"
     },
-    "nemeneegoda": {
-        "article_date_timestamp": 1668329460.0,
-        "article_title": "Ремонт Каховской ГЭС займет не менее года",
-        "article_url": "http://ont.by/news/remont-kahovskoj-ges-zajmet-ne-menee-goda"
+    "trehministerstvbritanii": {
+        "article_date_timestamp": 1668878220.0,
+        "article_title": "Месячную забастовку анонсировали госслужащие трех министерств Британии",
+        "article_url": "http://ont.by/news/mesyachnuyu-zabastovku-anonsirovali-gossluzhashie-treh-ministerstv-britanii"
     },
-    "aviashouvssha": {
-        "article_date_timestamp": 1668328140.0,
-        "article_title": "Два самолета столкнулись в воздухе во время авиашоу в США",
-        "article_url": "http://ont.by/news/dva-samoleta-stolknulis-v-vozduhe-vo-vremya-aviashou-v-ssha"
+    "zagorelsyamnogokvartirnyjdom": {
+        "article_date_timestamp": 1668870480.0,
+        "article_title": "В сахалинском поселке Тымовское загорелся многоквартирный дом",
+        "article_url": "http://ont.by/news/v-sahalinskom-poselke-tymovskoe-zagorelsya-mnogokvartirnyj-dom"
     },
-    "vosvetitelnuyumachtu": {
-        "article_date_timestamp": 1668325800.0,
-        "article_title": "На ул. Савицкого в Минске бесправник за рулем Ford врезался в осветительную мачту",
-        "article_url": "http://ont.by/news/na-ul-savickogo-v-minske-bespravnik-za-rulem-ford-vrezalsya-v-osvetitelnuyu-machtu"
+    "stanciipodpeterburgom": {
+        "article_date_timestamp": 1668865980.0,
+        "article_title": "Мощный взрыв произошел на газозаправочной станции под Петербургом",
+        "article_url": "http://ont.by/news/moshnyj-vzryv-proizoshel-na-gazozapravochnoj-stancii-pod-peterburgom"
     },
-    "vstochnyjkolodec": {
-        "article_date_timestamp": 1668322080.0,
-        "article_title": "В Гродно сотрудники МЧС спасли ребенка, упавшего в сточный колодец",
-        "article_url": "http://ont.by/news/v-grodno-sotrudniki-mchs-spasli-rebenka-upavshego-v-stochnyj-kolodec"
+    "okazyvayutsyanaulice": {
+        "article_date_timestamp": 1668864300.0,
+        "article_title": "В Бельгии украинские беженцы все чаще оказываются на улице",
+        "article_url": "http://ont.by/news/v-belgii-ukrainskie-bezhency-vse-chashe-okazyvayutsya-na-ulice"
     },
-    "sluzhbugosbezopasnostilatvii": {
-        "article_date_timestamp": 1668319020.0,
-        "article_title": "Высказавшегося против сноса памятника советским солдатам мэра Резекне вызвали для дачи разъяснений в Службу госбезопасности Латвии",
-        "article_url": "http://ont.by/news/vyskazavshegosya-protiv-snosa-pamyatnika-sovetskim-soldatam-mera-rezekne-vyzvali-dlya-dachi-razuyasnenij-v-sluzhbu-gosbezopasnosti-latvii"
+    "vzryvenasahaline": {
+        "article_date_timestamp": 1668857034.0,
+        "article_title": "Лукашенко выразил Путину соболезнования в связи с гибелью людей при взрыве на Сахалине",
+        "article_url": "http://ont.by/news/lukashenko-vyrazil-putinu-soboleznovaniya-v-svyazi-s-gibelyu-lyudej-pri-vzryve-na-sahaline"
     },
-    "kraskojvuzhgorode": {
-        "article_date_timestamp": 1668317940.0,
-        "article_title": "Памятник советским воинам-освободителям облили краской в Ужгороде",
-        "article_url": "http://ont.by/news/pamyatnik-sovetskim-voinam-osvoboditelyam-oblili-kraskoj-v-uzhgorode"
+    "klubevvengrii": {
+        "article_date_timestamp": 1668845778.0,
+        "article_title": "Американские солдаты подрались с туристами в ночном клубе в Венгрии",
+        "article_url": "http://ont.by/news/amerikanskie-soldaty-podralis-s-turistami-v-nochnom-klube-v-vengrii"
     },
-    "bylvremennyjpriyut": {
-        "article_date_timestamp": 1668317100.0,
-        "article_title": "В Италии украинских беженцев выселили из отелей, заявив, что это был «временный приют»",
-        "article_url": "http://ont.by/news/v-italii-ukrainskih-bezhencev-vyselili-iz-otelej-zayaviv-chto-eto-byl-vremennyj-priyut"
+    "dodevyatichelovek": {
+        "article_date_timestamp": 1668843201.0,
+        "article_title": "Число погибших при взрыве в доме на Сахалине возросло до девяти человек",
+        "article_url": "http://ont.by/news/chislo-pogibshih-pri-vzryve-v-dome-na-sahaline-vozroslo-do-devyati-chelovek"
     },
-    "vaeroportuparizha": {
-        "article_date_timestamp": 1668282150.0,
-        "article_title": "Прототип героя Тома Хэнкса из фильма «Терминал» умер в аэропорту Парижа",
-        "article_url": "http://ont.by/news/prototip-geroya-toma-henksa-iz-filma-terminal-umer-v-aeroportu-parizha"
-    },
-    "podstanciyuglushkovskojres": {
-        "article_date_timestamp": 1668265903.0,
-        "article_title": "Старовойт: ВСУ сбросили с дрона взрывное устройство на подстанцию Глушковской РЭС",
-        "article_url": "http://ont.by/news/starovojt-vsu-sbrosili-s-drona-vzryvnoe-ustrojstvo-na-podstanciyu-glushkovskoj-res"
+    "sichvzaporozhe": {
+        "article_date_timestamp": 1668842202.0,
+        "article_title": "Рогов: взорван склад боеприпасов ВСУ на территории завода «Мотор Сич» в Запорожье",
+        "article_url": "http://ont.by/news/rogov-vzorvan-sklad-boepripasov-vsu-na-territorii-zavoda-motor-sich-v-zaporozhe"
     }
 }

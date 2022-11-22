@@ -1,10 +1,11 @@
 import json
+import csv
 import re
 
 import requests
 from bs4 import BeautifulSoup
 
-# для преобразования в Unixtimestamp (количетсво секунд с 1 января 1970)
+# для преобразования в Unixtimestamp (количество секунд с 1 января 1970)
 from datetime import datetime
 import time
 
@@ -25,8 +26,8 @@ def get_ALL_news_IN_THE_WORLD():
         data = json_data["data"]
         for d in data:
             json_d = json.loads(d['ld_json'])
-            article_url = json_d['url']
-            article_title = json_d['headline']
+            article_url = json_d['url'].strip()
+            article_title = json_d['headline'].strip()
 
             article_data_time = json_d['datePublished']
             date_from_iso = datetime.fromisoformat(article_data_time)
@@ -49,6 +50,15 @@ def get_ALL_news_IN_THE_WORLD():
     # сохраняем все в файл
     with open("news_dict.json", "w") as file:
         json.dump(news_dict, file, indent=4, ensure_ascii=False)
+
+    with open("news_dict.csv", "w", newline='') as file:
+        headings = ["article_date_timestamp", "article_title", "article_url"]
+        data_writer = csv.DictWriter(file, fieldnames=headings)
+        data_writer.writeheader()
+        for key in news_dict:
+            data_writer.writerow(news_dict[key])
+
+
 
 
 def get_first_news():
@@ -88,6 +98,13 @@ def get_first_news():
     # сохраняем все в файл
     with open("news_dict.json", "w") as file:
         json.dump(news_dict, file, indent=4, ensure_ascii=False)
+
+    with open("news_dict.csv", "w", newline='') as file:
+        headings = ["article_date_timestamp", "article_title", "article_url"]
+        data_writer = csv.DictWriter(file, fieldnames=headings)
+        data_writer.writeheader()
+        for key in news_dict:
+            data_writer.writerow(news_dict[key])
 
 
 def check_news_update():
@@ -138,6 +155,13 @@ def check_news_update():
     with open("news_dict.json", "w") as file:
         json.dump(news_dict, file, indent=4, ensure_ascii=False)
 
+    with open("news_dict.csv", "w", newline='') as file:
+        headings = ["article_date_timestamp", "article_title", "article_url"]
+        data_writer = csv.DictWriter(file, fieldnames=headings)
+        data_writer.writeheader()
+        for key in news_dict:
+            data_writer.writerow(news_dict[key])
+
     return fresh_news
 
 
@@ -175,9 +199,9 @@ def main():
     # get_first_news()
 
     # (2) для запуска впервые, получение ВСЕХ новостей
-    get_ALL_news_IN_THE_WORLD()
+    # get_ALL_news_IN_THE_WORLD()
 
-    # print(check_news_update())
+    print(check_news_update())
     # get_news_keyword('ДТП')
 
 

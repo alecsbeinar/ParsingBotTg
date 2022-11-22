@@ -74,6 +74,7 @@ async def get_fresh_news(message: types.Message):
 @dp.message_handler()
 async def get_all_news(message: types.Message):
     await message.answer("Введите ключевое слово")
+
     news = get_news_keyword2(message.text)
     for k, v in news.items():
         ans = f"<b>{k}</b>\n" \
